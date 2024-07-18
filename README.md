@@ -15,7 +15,7 @@
       <li> ⚡ Fun fact: ...</li>
            </ul>
    </td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=zhenfang0215&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=zhenfang0215&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="zhenfang's GitHub stats" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>
 
